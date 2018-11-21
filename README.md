@@ -1,4 +1,4 @@
-***UOMC***
+### UOMC
 
 Ultima Online to Minecraft map generator.
 
