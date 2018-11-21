@@ -1,0 +1,15 @@
+C:\Dropbox\UOMC\UOMC\bin\Debug\UOMC.exe
+C:\Dropbox\UOMC\UOMC\bin\Debug\UOMC.pdb
+C:\Dropbox\UOMC\UOMC\bin\Debug\Substrate.dll
+C:\Dropbox\UOMC\UOMC\bin\Debug\Ultima.dll
+C:\Dropbox\UOMC\UOMC\bin\Debug\Ionic.Zlib.dll
+C:\Dropbox\UOMC\UOMC\bin\Debug\Substrate.pdb
+C:\Dropbox\UOMC\UOMC\bin\Debug\Substrate.xml
+C:\Dropbox\UOMC\UOMC\bin\Debug\Ultima.pdb
+C:\Dropbox\UOMC\UOMC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dropbox\UOMC\UOMC\obj\x86\Debug\UOMC.Form1.resources
+C:\Dropbox\UOMC\UOMC\obj\x86\Debug\UOMC.Properties.Resources.resources
+C:\Dropbox\UOMC\UOMC\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Dropbox\UOMC\UOMC\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Dropbox\UOMC\UOMC\obj\x86\Debug\UOMC.exe
+C:\Dropbox\UOMC\UOMC\obj\x86\Debug\UOMC.pdb
